@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-be386b47ca.zhumadianai.cn/sitemap.xml
